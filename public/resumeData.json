@@ -1,0 +1,225 @@
+{
+  "main": {
+    "name": "Utsal Adhikari",
+    "occupation": "QA Engineer",
+    "typeWriter": ["QA Engineer","Backend Developer","Trainer and Instructor"],
+    "description": "Crafting Digital Dreams: Where Innovation Meets Imagination.",
+    "image": "PP.jpeg",
+    "bio": "Highly qualified QA Engineer with over 2 years’ experience in software industry, solution-oriented and hands-on technical utility player, centered in software testing. Ability to learn quickly, often in high pressure situations, in order to fully understand a new product, platform or any mixture of the two. Also adept in backend technologies, like in Laravel, HTML, CSS, JavaScript, and related technologies. Extensive experience in the development and maintenance of large-scale projects within the fields of education, healthcare, and accounting. Committed to delivering top-notch, scalable solutions to ensure project success.",
+    "contactmessage": "Connect with me",
+    "email": "adecarryutsal935@gmail.com",
+    "phone": "+977 9806072272",
+    "degree": "Bachelor's of Information Management (BIM)",
+    "address": {
+      "street": "Bhagwan Kripa Marga",
+      "city": "Kathmandu",
+      "state": "Bagmati",
+      "zip": "44600"
+    },
+    "website": "https://utsaladhikari.com.np",
+    "resumedownload": "./2023_December_Resume_YOGRAJPAUDEL.pdf",
+    "social": [      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/utsal-a-ba8952146/",
+        "className": "bi bi-linkedin"
+      },      
+      {
+        "name": "github",
+        "url": "https://github.com/Utsal873",
+        "className": "bi bi-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/adecarry_utsal?igsh=ZGUz/",
+        "className": "bi bi-instagram"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/utsal.adhikari/",
+        "className": "bi bi-facebook"
+      }
+
+    ],
+    "interests": [
+      {
+        "title": "Travel/Hiking",
+        "color": "text-primary",
+        "icon": "ri-walk-fill"
+      },
+      {
+        "title": "Reading",
+        "color": "text-danger",
+        "icon": "bi bi-book"
+      },
+      {
+        "title": "Research/Innovation",
+        "color": "text-info",
+        "icon": "bi bi-film"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Highly qualified QA Engineer with over 2 years’ experience in software industry, solution-oriented and hands-on technical utility player, centered in software testing. Ability to learn quickly, often in high pressure situations, in order to fully understand a new product, platform or any mixture of the two. Also adept in backend technologies, like in Laravel, HTML, CSS, JavaScript, and related technologies. Extensive experience in the development and maintenance of large-scale projects within the fields of education, healthcare, and accounting. Committed to delivering top-notch, scalable solutions to ensure project success.",
+    "education": [
+      {
+        "school": "Orchid International College - Kathmandu, Nepal",
+        "degree": "Bachelor's Degree (BIM) - Tribhuvan University",
+        "graduated": "2021",
+        "description": ""
+      },
+      {
+        "school": "Emerald Academy, Nepal",
+        "degree": "+2 in Computer Science - Higher Secondary Education Board",
+        "graduated": "2016",
+        "description": ""
+      },
+      {
+        "school": "Siddhartha Shishu Sadan - Jhapa, Nepal",
+        "degree": "School Leaving Certificate (SLC)",
+        "graduated": "2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Easy Access Pvt. Ltd",
+        "title": "QA Engineer",
+        "years": "DEC 2021 - April 2024",
+        "description": [
+          {
+            "text": "Ensured timely delivery of high-quality products through effective coordination\nwith cross-functional teams."
+          },
+          {
+            "text": "Maximized team productivity through continuous improvement initiatives and\nimplementation of best practices in QA methodologies."
+          },
+          {
+            "text": "Participated in agile development practices such as sprint planning meetings\nand daily stand-ups, contributing valuable input from a QA perspective\nthroughout the project life cycle."
+          },
+          {
+            "text": "Contributed to the continuous improvement of QA processes through regular\nreviews, evaluations, and updates as needed."
+          },
+          {
+            "text": "Established effective communication channels between QA, development, and\nproject management teams to foster a collaborative working environment\nfocused on delivering high-quality products."
+          },
+          {
+            "text": "Enhanced customer satisfaction by promptly addressing issues identified during\nuser acceptance testing."
+          },
+
+
+          {
+            "text": "Increased product reliability by performing thorough regression testing on each\nrelease cycle."
+          },{
+            "text": "Streamlined QA processes, resulting in increased efficiency and reduced time to\nmarket."
+          },{
+            "text": "Collaborated closely with development teams to improve software functionality\nand stability."
+          },{
+            "text": "Minimized potential risks by proactively identifying and addressing\nvulnerabilities during the development life cycle."
+          },
+          {
+            "text": "Collaborated with developers and project managers to assess program\ncapabilities, features and testing demands."
+          },
+          {
+            "text": "Participated in available trainings to improve software knowledge."
+          },
+          {
+           "text": "Provide a software training program to the end-users."
+          }
+        ]
+      }
+    ],
+    "skills": [      
+      {
+        "name": "Technical Knowledge",
+        "color": "text-primary",
+        "icon": "ri-terminal-box-line"
+      },
+      {
+        "name": "Programming Language (PHP, Java)",
+        "color": "text-secondary",
+        "icon": "ri-terminal-box-line"
+      },
+      {
+        "name": "Software testing Tools (Postman, JMeter, Cypress)",
+        "color": "text-info",
+        "icon": "ri-html5-line"
+      },
+      {
+        "name": "JavaScript/AJAX",
+        "color": "text-danger",
+        "icon": "ri-terminal-box-line"
+      },
+      {
+        "name": "MySQL",
+        "color": "text-warning",
+        "icon": "ri-terminal-box-line"
+      },
+      {
+        "name": "GitHub/Bitbucket",
+        "color": "text-danger",
+        "icon": "ri-github-line"
+      },
+      {
+        "name": "Problem Solving/Team Work",
+        "color": "text-primary",
+        "icon": "ri-terminal-box-line"
+      },
+      {
+        "name": "Inter-personal Skill",
+        "color": "text-primary",
+        "icon": "ri-terminal-box-line"
+      },
+      {
+        "name": "Time Management",
+        "color": "text-primary",
+        "icon": "ri-terminal-box-line"
+      },
+      {
+        "name": "Effective Management",
+        "color": "text-primary",
+        "icon": "ri-terminal-box-line"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Easy Health Management System",
+        "category": "web applications",
+        "image": "ehims.jpg",
+        "url": "https://ehmis.hetaudamun.gov.np/",
+        "details": "EHIMS is a system that monitors the performance of Health Institution."
+      },
+      {
+        "title": "emedicareSoft: A Complete Health Information Management",
+        "category": "web applications",
+        "image": "emedicaresoft.jpg",
+        "url": "https://www.emedicaresoft.com/",
+        "details": "emedicareSoft is a complete digital health information management system that provides hospitals and other healthcare facilities with all-in-one solutions."
+      },
+      {
+        "title": "Education Management System (CloudEDU APP)",
+        "category": "web applications",
+        "image": "cloudedu.png",
+        "url": "https://www.cloudeduapp.com/partnersite/login",
+        "details": "Embarking on a transformative journey in educational administration, CloudEDU stands as the pinnacle of innovation, a complete ERP solution specifically for Schools and Colleges, CloudEDU introduces a suite of modules designed to redefine the way institutions manage their day-to-day operations, fostering efficiency, transparency, and progress."
+      },
+      {
+        "title": "FincoAPP (Comprehensive Accounting Solutions.)",
+        "category": "web applications",
+        "image": "fincoapp.jpg",
+        "url": "https://www.fincoapp.com/auth/register",
+        "details": "FincoApp is a cutting-edge software platform that revolutionizes the way you manage your business. With our comprehensive suite of features, including inventory management, accounting management, customer resource management, and human resource management, we provide you with the tools you need to optimize efficiency, enhance productivity, and drive growth."
+      }
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
