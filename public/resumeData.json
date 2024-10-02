@@ -2,7 +2,7 @@
   "main": {
     "name": "Utsal Adhikari",
     "occupation": "QA Engineer",
-    "typeWriter": ["QA Engineer","Backend Developer","Trainer and Instructor"],
+    "typeWriter": ["QA Engineer","Trainer and Instructor"],
     "description": "Crafting Digital Dreams: Where Innovation Meets Imagination.",
     "image": "PP.jpeg",
     "bio": "Highly qualified QA Engineer with over 2 years’ experience in software industry, solution-oriented and hands-on technical utility player, centered in software testing. Ability to learn quickly, often in high pressure situations, in order to fully understand a new product, platform or any mixture of the two. Also adept in backend technologies, like in Laravel, HTML, CSS, JavaScript, and related technologies. Extensive experience in the development and maintenance of large-scale projects within the fields of education, healthcare, and accounting. Committed to delivering top-notch, scalable solutions to ensure project success.",
@@ -11,7 +11,7 @@
     "phone": "+977 9806072272",
     "degree": "Bachelor's of Information Management (BIM)",
     "address": {
-      "street": "Bhagwan Kripa Marga",
+      "street": "Bhagwan Kripa Marga, Jadibuti",
       "city": "Kathmandu",
       "state": "Bagmati",
       "zip": "44600"
@@ -24,11 +24,6 @@
         "url": "https://www.linkedin.com/in/utsal-a-ba8952146/",
         "className": "bi bi-linkedin"
       },      
-      {
-        "name": "github",
-        "url": "https://github.com/Utsal873",
-        "className": "bi bi-github"
-      },
       {
         "name": "instagram",
         "url": "https://www.instagram.com/adecarry_utsal?igsh=ZGUz/",
@@ -207,7 +202,7 @@
       {
         "title": "FincoAPP (Comprehensive Accounting Solutions.)",
         "category": "web applications",
-        "image": "fincoapp.jpg",
+        "image": "fincoapp.png",
         "url": "https://www.fincoapp.com/auth/register",
         "details": "FincoApp is a cutting-edge software platform that revolutionizes the way you manage your business. With our comprehensive suite of features, including inventory management, accounting management, customer resource management, and human resource management, we provide you with the tools you need to optimize efficiency, enhance productivity, and drive growth."
       }
